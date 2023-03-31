@@ -7,5 +7,5 @@ sendo F a temperatura em Fahrenheit e C a temperatura em Celsius.
 
 temperaturaC = 30
 temperaturaF = temperaturaC * (9.0 / 5.0) + 32.0
-print(f'Temperatura convertida: {temperaturaF}')
+print(f'Temperatura convertida: {temperaturaF:.4}')
 
