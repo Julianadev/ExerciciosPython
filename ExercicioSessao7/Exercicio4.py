@@ -1,6 +1,6 @@
 
 lista = []
-soma = 0
+
 
 print('Digite 8 números')
 for _ in range(8):
