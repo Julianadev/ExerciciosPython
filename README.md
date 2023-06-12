@@ -17,5 +17,6 @@ E você vai ficar de fora dessa?!
 
 - Sessão 6 -> [exercicios-python-secao06_62e.pdf](https://github.com/Julianadev/ExerciciosPython/files/11196647/exercicios-python-secao06_62e.pdf)
 
-- Sessão 7 -> 
+- Sessão 7 -> [exercicios-python-secao07_p1_39e.pdf](https://github.com/Julianadev/ExerciciosPython/files/11717279/exercicios-python-secao07_p1_39e.pdf)
+
 
