@@ -2,7 +2,7 @@
 Repositório criado para resolução de exercícios em python 
 
 <h2> Intensivão de python </h2>
-<p> Aquele intensivão maroto da Greek University , com 53 exercícios
+<p> Aquele intensivão maroto da Greek University , com exercícios
 para a prática da lógica de programação usando a linguagem python,
 eu como uma aspirante da programação , não poderia ficar de fora desse desafio ne?!
 E você vai ficar de fora dessa?!
