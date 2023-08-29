@@ -21,5 +21,8 @@ E você vai ficar de fora dessa?!
 
 - Sessão 8 -> [exercicios-python-secao08_73e (1).pdf](https://github.com/Julianadev/ExerciciosPython/files/11994226/exercicios-python-secao08_73e.1.pdf)
 
+- Sessão 13 -> [exercicios-python-secao13_29e.pdf](https://github.com/Julianadev/ExerciciosPython/files/12466728/exercicios-python-secao13_29e.pdf)
+
+
 
 
